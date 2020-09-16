@@ -14,37 +14,34 @@ If you are looking for someone who has strong soft skills, has a harsh academic 
 -------------
 ### **EDUCATION**
 
-**Master in Social Communication** • 2017 • SPSU
+**Master in Social Communication** • 2017 • SPSU (Liberal Arts and Sciences)
 Diploma with honours
 
-**Bachelor in Liberal Arts and Sciences** • 2015 • SPSU
-Diploma with honours
+**Bachelor in Liberal Arts and Sciences** • 2015 • SPSU (Liberal Arts and Sciences) Diploma with honours
 
-**Bachelor in Liberal Arts and Sciences** • 2015 • BARD COLLEGE, NY (USA)
-Diploma with honours
+**Bachelor in Liberal Arts and Sciences** • 2015 • Bard College (Liberal Arts and Sciences), NY (USA) Diploma with honours
 
 English level - Advanced (*7.5 IELTS*)
 
 -------
 ### **WORK EXPERIENCE**
 
-**Manager of Education** • SOKOS HOTELS • September 2018 - September 2020
+**Manager of Education** • SOKOS Hotels • September 2018 - September 2020
 
-**Language School Manager** • BEST TEACH • FEBRUARY 2018 – JULY 2018
+**Language School Manager** • Best Teach • February 2018 – July 2018
 
 --------
 ### **ESSENTIAL SKILLS**:
 
-- Hard:
+- **Hard**:
     - JavaScript;
     - HTML5;
     - CCS3;
     - Git;  
-- Soft:
+- **Soft**:
     - Team work;
     - Time management;
-    - Business communication;
-    - .
+    - Business communication.
   
   [Here is the link to my code examples](https://suzygrbt.github.io/rsschool)
 
