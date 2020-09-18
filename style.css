@@ -1,0 +1,73 @@
+.resume {
+    width: 700px;
+    height: 900px;
+    border: 1px solid;
+    margin: auto;
+    background-color: snow;
+
+}
+body {
+    background-color: #cbeaf0;
+}
+.name {
+    border-bottom: 2px solid white;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: steelblue;
+    padding-top
+}
+
+hr {
+    align: center; 
+    width: 500; 
+    size: 2;
+    color: steelblue;
+}
+table {
+    width: 700px;
+    height: 500px;
+    align: center;
+    border-spacing: 0px;
+    
+}
+.left {
+    width: 200px;
+    height: 600px;
+    background-color: steelblue;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.right {
+    width: 500px;
+    height: 700px;
+    padding: 20px;
+}
+
+.image {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+li {
+    line-height: 1.5;
+    font-size: medium;
+    text-align: left;
+}
+
+h2 {
+    color: #d2f2f7;
+    margin-bottom: 10px;
+}
+h1 {
+    margin-top: 10px;
+    padding: 5px;
+    color: whitesmoke;
+}
+.font-size {
+    font-size: 16px;
+}
+.link {
+    margin-bottom: 0px;
+}
